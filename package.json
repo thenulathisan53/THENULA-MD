@@ -1,12 +1,12 @@
 {
-  "name": "KAVI-MD",
+  "name": "THENULA-MD",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By KAVIDU RASANGA.",
+  "description": "A WhatsApp Bot Created By THENULA.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KAVI-MD",
-    "stop": "pm2 stop KAVI-MD",
-    "restart": "pm2 restart KAVI-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name THENULA-MD",
+    "stop": "pm2 stop THENULA-MD",
+    "restart": "pm2 restart THENULA-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.16",
